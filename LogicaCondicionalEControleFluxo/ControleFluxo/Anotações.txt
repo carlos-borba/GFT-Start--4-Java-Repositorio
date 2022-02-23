@@ -1,0 +1,2 @@
+Resolução dos exercicios de controle de fluxo. Eu gosto bastante desses exercicios. 
+Não gsotei muito da resolução que eu pensei na questão dos meses do ano, eu gostaria de botar tudo em um método só, mas nao consegui fazer, se alguém tiver uma idéia é só coisar ali :).
