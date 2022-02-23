@@ -1,0 +1,1 @@
+Resoluções do exercicio proposto. O exercici pedia para alterar o métodos do exercicio anterior, para que fosse usado o "return". Eu fiz da primeira vez e ficou meio feio, um pouco simples demais, então fui olhar como o professor fez e segui as indicações dele.
